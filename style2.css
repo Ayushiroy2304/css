@@ -1,0 +1,14 @@
+h1{
+    color: #cfd13a;
+    text-align: center;
+}
+p{
+    color:black;
+}
+body{
+    height:100%;
+    width:100vh;
+    background-image: url("https://media.wired.com/photos/5d519a36c045250009e71b5c/master/w_2560%2Cc_limit/Gear-Spectacles-TA-FA.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

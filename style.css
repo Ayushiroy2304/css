@@ -1,0 +1,35 @@
+h1{
+    background-color: aquamarine;
+    border: double;
+    border-color: black;
+    border-top-left-radius: 5px;
+
+}
+.para1{
+    background-color:pink;
+    border:solid;
+    border-color:black;
+    border-radius:5px;
+    padding: 30px;
+    width: 100px;
+    margin: 60px;
+    
+}
+.para2
+{
+    background-color: rgb(35, 224, 136);
+    border : solid;
+    border-color: black;
+    border-radius: 5px;
+    padding: 40px;
+    margin: 40px;
+}
+.para3
+{
+    background-color: crimson;
+    border: solid;
+    border-color: balck;
+    border-radius: 5px;
+    padding: 50px;
+    margin: 20px;
+}

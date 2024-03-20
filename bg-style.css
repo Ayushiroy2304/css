@@ -1,0 +1,11 @@
+body{
+    height:100%;
+    width: 100vh;
+    background-color: #ccc;
+    background-image : url("https://www.brainstormindia.com/images/resources/web.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top left;
+   
+
+}
